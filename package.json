@@ -1,0 +1,25 @@
+{
+  "name": "fastcheckin",
+  "version": "1.0.0",
+  "description": "fashcheckin app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacknab/sb1-rtzjmks711.git"
+  },
+  "keywords": [
+    "fastcheckin",
+    "nail",
+    "salon",
+    "checkin"
+  ],
+  "author": "Toby Benjamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacknab/sb1-rtzjmks711/issues"
+  },
+  "homepage": "https://github.com/jacknab/sb1-rtzjmks711#readme"
+}
